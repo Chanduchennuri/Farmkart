@@ -27,7 +27,7 @@ if (!fs.existsSync('uploads')) {
 }
 
 // Initialize Gemini API
-const genAI = new GoogleGenerativeAI('AIzaSyCkQnqPqQjf5bRBrUaVnTcICuv08siWjxY');
+const genAI = new GoogleGenerativeAI('YOUR_API_KEY');
 
 // System prompt to make the AI more focused on farming
 const systemPrompt = `You are an expert farming assistant. Your role is to provide accurate, helpful, and practical advice about farming, agriculture, and related topics. 
