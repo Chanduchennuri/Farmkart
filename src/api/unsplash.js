@@ -1,4 +1,4 @@
-const UNSPLASH_ACCESS_KEY = 'GJ5vPCisJByyAP1IqjSyfVjCvbj36o3QsRsPBww0Clc'; // Replace with your actual Unsplash API key
+const UNSPLASH_ACCESS_KEY = 'YOUR_API_KEY'; // Replace with your actual Unsplash API key
 
 // Fallback images for each category
 const fallbackImages = {
